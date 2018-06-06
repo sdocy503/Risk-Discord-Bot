@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.deps.json
+C:\Users\User\source\repos\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.runtimeconfig.json
+C:\Users\User\source\repos\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.runtimeconfig.dev.json
+C:\Users\User\source\repos\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.dll
+C:\Users\User\source\repos\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.AssemblyInfo.cs
+C:\Users\User\source\repos\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.pdb
+C:\Users\User\source\repos\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.dll
+C:\Users\User\source\repos\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.pdb
