@@ -9,3 +9,14 @@ C:\Users\User\source\repos\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.Assem
 C:\Users\User\source\repos\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.pdb
 C:\Users\User\source\repos\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.dll
 C:\Users\User\source\repos\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.pdb
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.csproj.CoreCompileInputs.cache
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.AssemblyInfoInputs.cache
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.AssemblyInfo.cs
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.deps.json
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.runtimeconfig.json
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.runtimeconfig.dev.json
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.dll
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.csprojAssemblyReference.cache
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\bin\Debug\netcoreapp2.0\RiskBot.pdb
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.dll
+C:\Users\stephen\Documents\Risk-Discord-Bot\RiskBot\RiskBot\obj\Debug\netcoreapp2.0\RiskBot.pdb
